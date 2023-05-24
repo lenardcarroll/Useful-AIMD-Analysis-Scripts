@@ -1,4 +1,4 @@
-To increase the unit cell from 1$\times$1$\times$1 to (e.g.) 3$\times$3$\times$1 of a simulation box with dimensions [10,0,0],[0,10,0],[0,0,10] for atoms 1-120, we use:
+To increase the unit cell from ```1$\times$1$\times$1``` to (e.g.) 3$\times$3$\times$1 of a simulation box with dimensions [10,0,0],[0,10,0],[0,0,10] for atoms 1-120, we use:
 ```
 from read import openStruct
 
